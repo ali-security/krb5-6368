@@ -1579,3 +1579,4 @@ V5_AC_OUTPUT_MAKEFILE(.
 	tests tests/asn.1 tests/create tests/hammer tests/verify tests/gssapi
 	tests/threads tests/shlib tests/gss-threads tests/misc
 )
+
